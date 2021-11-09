@@ -22,10 +22,10 @@ O que você está vendo bem aí na sua frente é o meu perfil do GitHub, espero 
 <li>Bulma Framework</li>
 </ul>
 <hr/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="70">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="150">
 <ul>
 <li>ES6</li>
-<li><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" width="70"></li>
+<li><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" width="80"></li>
 <li>ExpressJS</li>
 <li>ReactJS</li>
 <li>NodeJS</li>
