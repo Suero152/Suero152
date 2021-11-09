@@ -16,7 +16,7 @@ O que você está vendo bem aí na sua frente é o meu perfil do GitHub, espero 
 </ul>
 <hr/>
 
-<span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="70">   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="80"></span>
+<span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="76">   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="80"></span>
 
 <ul>
 <li>Bulma Framework</li>
