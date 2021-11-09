@@ -1,6 +1,12 @@
 # Perfil
 
+#
 
 ## Opa, e aí? 👋
+
 Me chamo Suero e sou uma pessoa recente ( 7.5 Meses de experiência ) na área da tecnologia e programação.
 O que você está vendo bem aí na sua frente é o meu perfil do GitHub, espero que algo desperte seu interesse.
+
+
+## Tecnologias que tenho experiência:
+![ Python ](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg)
