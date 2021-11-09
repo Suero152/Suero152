@@ -26,8 +26,8 @@ O que você está vendo bem aí na sua frente é o meu perfil do GitHub, espero 
 <ul>
 <li>ES6</li>
 <li><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" width="80"></li>
-<li>ExpressJS</li>
-<li>ReactJS</li>
-<li>NodeJS</li>
+<li><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" width="80"></li>
+<li><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="80"></li>
+<li><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="80"></li>
 </ul>
 <hr/>
