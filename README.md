@@ -9,7 +9,7 @@ O que você está vendo bem aí na sua frente é o meu perfil do GitHub, espero 
 
 
 ## Tecnologias que tenho experiência:
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="150">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="130">
 
 <ul>
 <li>Python 3.7 - 3.9</li>
