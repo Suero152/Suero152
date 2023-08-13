@@ -19,3 +19,15 @@
 - 📱 Contact:
 
 <a href="mailto:suerocontato@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+
+<div align="center">
+  <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=Suero152&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+  <a href="https://github.com/Suero152">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suero152&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suero152&layout=compact&langs_count=7&theme=synthwave"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Suero152&theme=onedark">
+</div>
+
+<hr><br>
