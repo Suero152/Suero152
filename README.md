@@ -20,7 +20,7 @@
 <details>
 
 <summary>
- <span><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"></span> <b>Skills</b>
+ <span><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"></span> <b>Technologies I'm used to:</b>
 </summary>
 
 - 📋 Languages
@@ -72,8 +72,9 @@
 
 </details>
 
+<br>
 
-- 📱 Contact:
+📱 Contact:
 
 <a href="mailto:suerocontato@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a><br>
 Discord: @sueroo
