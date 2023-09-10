@@ -9,7 +9,6 @@
 </p>
 
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=Suero152">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/Suero152?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
