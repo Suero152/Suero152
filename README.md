@@ -85,7 +85,6 @@ Discord: @sueroo
   <p align='center'><img src="https://streak-stats.demolab.com?user=Suero152&theme=transparent"></p>
   <a href="https://github.com/Suero152">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suero152&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
     <img src="https://github-profile-trophy.vercel.app/?username=Suero152&theme=algolia">
 </div>
 
