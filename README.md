@@ -83,9 +83,8 @@ Discord: @sueroo
 
 <div align="center">
   <p align='center'><img src="https://streak-stats.demolab.com?user=Suero152&theme=transparent"></p>
-  <a href="https://github.com/Suero152">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suero152&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Suero152&theme=algolia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suero152&layout=compact&langs_count=7&theme=transparent"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Suero152&theme=algolia">
 </div>
 
 <hr><br>
