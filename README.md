@@ -2,24 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Profile👨‍🦱️&fontAlign=80&fontAlignY=40&color=gradient"/>
 </p>
 
-<h1> Hello, coder. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 41> </h1>
-
-<p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com/?color=%23f73636&size=25&center=true&vCenter=true&width=433&height=75&lines=I%27m+Suero;Programming+Enthusiast;"/>
-</p>
+<h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 41> Hello, coder.  </h1>
 
 <p align='center'>
 <img src="https://img.shields.io/github/followers/Suero152?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
 <br/>
 
 
 <details>
 
 <summary>
- <span><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"></span> <b>Technologies I'm used to:</b>
+ <span><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18"></span> <b>Technologies I'm used to ( CLICK THE ARROW )</b>
 </summary>
 
 - 📋 Languages
@@ -69,22 +64,22 @@
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </details>
 
 <br>
+<h1>📱 Contact</h1>
 
-📱 Contact:
+<br>
+<a href="mailto:suerocontato@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> <p>suerocontato@protonmail.com</p><br>
+<a href="https://t.me/Suerow"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a><p>@Suerow</p><br>
+<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><p>@sueroo</p><br>
 
-<a href="mailto:suerocontato@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a><br>
-Discord: @sueroo
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+<h1> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> <b>Github Stats</b> </h1>
 
 <div align="center">
-  <p align='center'><img src="https://streak-stats.demolab.com?user=Suero152&theme=transparent"></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suero152&layout=compact&langs_count=7&theme=transparent"/>
+  <p align='center'><img src="https://streak-stats.demolab.com?user=Suero152&theme=transparent"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suero152&layout=compact&langs_count=7&theme=transparent"/></p>
   <img src="https://github-profile-trophy.vercel.app/?username=Suero152&theme=algolia">
 </div>
 
