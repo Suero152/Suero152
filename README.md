@@ -3,14 +3,7 @@
 </p>
 
 <h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 41> Hello, coder.  </h1>
-
-<p align='center'>
-<img src="https://img.shields.io/github/followers/Suero152?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
 <br/>
-
-
 <details>
 
 <summary>
