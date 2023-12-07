@@ -7,7 +7,7 @@
 <details>
 
 <summary>
- <span><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18"></span> <b>Technologies I'm used to ( CLICK THE ARROW )</b>
+ <span><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18"></span> <b>Technologies I'm used to</b>
 </summary>
 
 <br>
