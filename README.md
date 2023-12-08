@@ -83,7 +83,10 @@
 <h1> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> <b>Github Stats</b> </h1>
 
 <div align="center">
-  <p align='center'><img src="https://streak-stats.demolab.com?user=Suero152&theme=transparent"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suero152&layout=compact&langs_count=7&theme=transparent"/></p>
+  <p align='center'>
+    <img src="https://streak-stats.demolab.com?user=Suero152&theme=transparent"> 
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suero152&layout=compact&langs_count=7&theme=transparent"/>
+  </p>
   <img src="https://github-profile-trophy.vercel.app/?username=Suero152&theme=algolia">
 </div>
 
