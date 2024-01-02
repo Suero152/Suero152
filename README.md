@@ -81,11 +81,7 @@
 
 <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"><b>Github Stats</b></h1>
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suero152&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Suero152&theme=dark)](https://git.io/streak-stats)
-
-  
 </div>
 
 <hr><br>
