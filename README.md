@@ -86,7 +86,6 @@
     <img src="https://streak-stats.demolab.com?user=Suero152&theme=transparent"> 
     <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suero152&layout=compact&langs_count=7&theme=transparent"/>
   </p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Suero152&theme=algolia">
 </div>
 
 <hr><br>
