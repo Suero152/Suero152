@@ -82,7 +82,7 @@
 <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"><b>Github Stats</b></h1>
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=Suero152&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Suero152&theme=dark)
 
 </div>
 
