@@ -26,7 +26,6 @@ Please, note that almost all my projects and repos still private, if you want to
 ----- 🥱 ----- <br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 <br>
 
@@ -76,9 +75,12 @@ Please, note that almost all my projects and repos still private, if you want to
 <h1>📱 Contact</h1>
 
 <br>
-<a href="mailto:suerocontato@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a><p>suerocontato@protonmail.com</p><br>
-<a href="https://t.me/Suerow"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a><p>@suerow</p><br>
-<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><p>@sueroo</p><br>
+<a href="mailto:suerocontato@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a><p>suerocontato@protonmail.com</p>
+<br>
+<a href="https://t.me/Suerow"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a><p>@suerow</p>
+<br>
+<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><p>@sueroo</p>
+<br>
 
 
 <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"><b>Github Stats</b></h1>
