@@ -81,14 +81,5 @@ Please, note that almost all my projects and repos still private, if you want to
 <br>
 <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><p>@sueroo</p>
 <br>
-
-
-<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"><b>Github Stats</b></h1>
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Suero152&theme=dark)
-
-</div>
-
 <hr><br>
 Cya! 👋
