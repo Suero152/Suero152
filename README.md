@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Profile👨‍🦱️&fontAlign=80&fontAlignY=40&color=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Profile🚀&fontAlign=80&fontAlignY=40&color=gradient"/>
 </p>
 
 <h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 41> Hello, coder.</h1>
