@@ -5,7 +5,7 @@
 <h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 41> Hello, coder.</h1>
 
 > [!NOTE]
-> Please, note that all my projects and repos are private, if you want to know better on what I'm/I was working on, you can contact me. ;)
+> Please, note that all my projects and repos are private, if you want to know better on what I'm/I was working on, you can contact me with provided sources here. ;)
 
 <hr/>
 <br/>
