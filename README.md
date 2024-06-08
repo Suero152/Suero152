@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Profile🚀&fontAlign=80&fontAlignY=40&color=gradient"/>
 </p>
 
-<h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 41> Hello, coder.</h1>
+<h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 41> Hello!</h1>
 
 > [!NOTE]
 > Please, note that all my projects and repos are private, if you want to know better on what I'm/I was working on, you can contact me with provided sources here. ;)
