@@ -70,13 +70,17 @@
 
 <br>
 <h1>📱 Contact</h1>
+<br>
+
+
 
 <br>
-<a href="mailto:suerocontato@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a><p>suerocontato@protonmail.com</p>
-<br>
-<a href="https://t.me/Suerow"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a><p>@suerow</p>
-<br>
-<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><p>@sueroo</p>
+
+![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) <span>[suerocontato@protonmail.com](mailto:suerocontato@protonmail.com)</span>  
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) <span>[@suerow](https://t.me/Suerow)</span>  
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) <span>[@sueroo](https://discord.com/channels/@me)</span>  
+
 <br>
 <hr><br>
+
 Cya! 👋
